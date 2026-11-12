@@ -1,5 +1,6 @@
 # Worldweave
 
+![Worldweave shared workspace](docs/worldweave-workspace.jpg)
 Worldweave is a browser-based vector map editor for planning game worlds. The published site opens a shared workspace: visitors choose a display name, then can view and edit the same maps without creating an account or using an invite link.
 
 ## Collaboration and access
